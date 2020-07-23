@@ -1,0 +1,77 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebAppForStudy:war exploded">
+    <output-path>D:/apache-tomcat-8.5.57/webapps/myWebApp</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebAppForStudy/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebAppForStudy" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/antlr-2.7.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/aopalliance-1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-digester-2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-fileupload-1.3.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-io-2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-lang-2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-logging-api-1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.0.1.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/hibernate-core-5.0.11.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jackson-annotations-2.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jackson-core-2.8.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javassist-3.21.0-GA.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.inject-2.5.0-b32.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.transaction-api-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/slf4j-api-1.5.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/slf4j-jdk14-1.5.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-aop-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-aspects-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-beans-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-context-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-context-support-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-core-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-expression-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-instrument-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-jdbc-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-jms-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-messaging-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-orm-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-oxm-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-test-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-tx-5.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-web-5.0.0.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/spring-webmvc-5.0.0.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/standard-1.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-api-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-autotag-core-runtime-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-compat-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-core-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-el-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-extras-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-freemarker-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-jsp-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-mvel-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-ognl-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-request-api-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-request-freemarker-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-request-jsp-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-request-mustache-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-request-servlet-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-request-servlet-wildcard-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-request-velocity-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-servlet-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-template-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/tiles-velocity-3.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/validation-api-1.1.0.Final.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
